@@ -1,0 +1,13 @@
+Git Commands
+
+I will be updating this file with new git commands.
+
+[git init] initialises a local repository
+[git remote -v ] lets you see the url to push to and fetch from
+[git ls-files] lets you see files added to your local repository
+[git status] lets you check status
+[git add .] lets you add files in the current directory to staging area
+[git commit -m "name of commit"] commits what is on the staged area to "name of commit"
+[git checkout -b caleb] creates a branch on your local repository and cd's into it
+[git pull origin caleb] replace the local branch(caleb) repository-branch with whatever files that is on your remote repository-branch
+[git push origin caleb] pushes files from local repository-branch to remote repository-branch
